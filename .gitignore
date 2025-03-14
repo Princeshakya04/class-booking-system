@@ -1,0 +1,33 @@
+# Composer dependencies
+/vendor/
+
+# Logs
+/logs/
+/*.log
+
+# Environment files
+.env
+
+# Docker files
+docker-compose.override.yml
+
+# IDE specific files
+/.idea/
+/*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node modules (if applicable)
+node_modules/
+
+# PHPUnit result cache
+.phpunit.result.cache
+
+# Coverage reports
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
