@@ -1,6 +1,6 @@
 # Glofox API
 
-This project is a PHP-based application using the Slim framework. It includes services for class validation and management, with unit tests to ensure functionality.
+This project is a PHP-based application using the Slim framework. It provides services for class validation and management, allowing users to create and book classes with defined capacities.
 
 ## Prerequisites
 
@@ -14,7 +14,7 @@ This project is a PHP-based application using the Slim framework. It includes se
    Clone this repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Princeshakya04/class-booking-system.git
    cd glofox-api
    ```
 
@@ -67,6 +67,10 @@ This project is a PHP-based application using the Slim framework. It includes se
 - **Logs**
 
   Application logs are stored in `logs/app.log`.
+
+- **API Documentation**
+
+  For detailed API information, refer to the [API_DOCUMENTATION.md](API_DOCUMENTATION.md) file.
 
 ## Troubleshooting
 
